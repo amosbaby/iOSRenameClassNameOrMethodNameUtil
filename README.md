@@ -1,0 +1,2 @@
+# iOSRenameClassNameOrMethodNameUtil
+用于iOS制作马甲包时，批量更换类名前缀和方法名前缀，用python编写，目前支持2.7版本
