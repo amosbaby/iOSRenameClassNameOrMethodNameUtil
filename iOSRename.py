@@ -59,7 +59,7 @@ def rename(oldName,newName,filePath):
   b = open(filePath,'w')
   b.write(str) #再写入
   b.close() #关闭文件
-  print "============" + filePath + "finished"
+  print "+++++++++++" + filePath + "finished"
 
 
 fileList = getAllFiles(root)
@@ -68,5 +68,3 @@ for file in fileList:
     if isIgnoredByTrail(file):
       continue
     rename(oldPrefix,newPrefix,file)
-
-
