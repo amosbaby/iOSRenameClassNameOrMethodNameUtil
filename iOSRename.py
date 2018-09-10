@@ -10,7 +10,7 @@ ignoredTrail = [".py"]
 #需要忽略的文件夹
 ignoredDirPath   = ["/Users/liyingchun/Downloads/test/Test"]
 #原来的前缀
-oldPrefix="xxx_" 
+oldPrefix="zzz_" 
 #新前缀
 newPrefix="yyy_" 
 
