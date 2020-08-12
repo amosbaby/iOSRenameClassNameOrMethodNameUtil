@@ -16,3 +16,4 @@
 
 #### 2.在终端 cd 到工作目录，然后执行 `python iOSRename.py` 等待 10 秒即可
 [![Amos's github stats](https://github-readme-stats.vercel.app/api?username=amosbaby)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amosbaby)](https://github.com/anuraghazra/github-readme-stats)
