@@ -15,3 +15,4 @@
 #### 1. 将`iOSRename.py` 文件拷贝到你的工程项目根目录
 
 #### 2.在终端 cd 到工作目录，然后执行 `python iOSRename.py` 等待 10 秒即可
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
